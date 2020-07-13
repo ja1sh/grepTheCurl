@@ -11,4 +11,6 @@ Prefix the urls with correct syntax which will be accepted by the 'curl'
 ### grep the regex in server response:
 `curl -sS -K /curls.txt | grep -Eoi "REGEX"`
 
+### For Regex exmaples: https://github.com/odomojuli/RegExAPI
+
 Author: Jai Kumar Sharma
